@@ -1,11 +1,27 @@
 Título (30)
 ===========
+GUÍA DE CHUCENA
 
 Descripción breve (80)
 ======================
+Chucena, municipio que se encuentra en las tierras llanas del Condado de Huelva.
 
 Descripción completa (4000)
 ===========================
+Con la Aplicación “Guía de Chucena”, desarrollada por el Excmo. Ayuntamiento de Chucena, se pretende crear un nuevo canal de información para tenerlo siempre a mano, y es un rápido canal de comunicación entre los ciudadanos y esta Administración. Además, facilita la movilidad por el municipio y la información gracias a la geolocalización en el plano.
+Chucena se encuentra en las tierras llanas del Condado de Huelva, conocida por la Campiña, distante de la capital a unos 62 kilómetros. Un término municipal pequeño, sólo 25,77 kilómetros cuadrados, con una población que puede rondar los dos mil vecinos. Etimológicamente su nombre derivaría de “succius”, fértil en latín y “ena” sufijo de posesión y datarse su origen entre los siglos III y II a.C.
+El origen de Chucena estuvo muy relacionado con los antiguos asentamientos de Tejada la Vieja y Tejada la Nueva, situados en el municipio de Escacena del Campo. El primero fue, desde el inicio del primer milenio hasta su desaparición, a mediados del siglo IV a. C., un importante centro comercial y metalúrgico de cultura tartésica y fenicia.
+Posteriormente, hubo un cambio de especialización hacia las actividades agrarias en Tejada la Nueva, conocida en los textos romanos como Ituci, y emplazada en una feraz campiña.
+El progreso de Chucena se produce lentamente desde la Edad Media, por el despoblamiento de Tejada.
+La conquista de Tejada se produce en 1253, bajo el reinado del rey castellano Alfonso X. En un principio, Chucena forma parte, como tierra de realengo, del Concejo de la ciudad de Sevilla.
+Existen unos Archivos Municipales de gran amplitud, valor y que facilitan conocer la historia de esta villa y del Marquesado desde mediados de siglo XVI hasta la actualidad. Estos archivos pueden ser completados con los de la Casa de Medinaceli, que se remontan a mediados del siglo XIII para el caso de Chucena, y recogen la historia desde el inicio de la conquista cristiana. También sobre Chucena, a diferencia de otros muchos pueblos, existen dos libros de carácter histórico y que hoy suponen una referencia obligada: Apuntes históricos de la villa de Chucena (1958), del padre Jacinto, y Estudio histórico del Marquesado de Alcalá de la Alameda (1975), de Martín Sánchez Franco.
+La historia de Chucena queda íntimamente ligada a la de Alcalá de la Alameda. un antiguo núcleo, con similar y coetáneo origen histórico, situado a medio kilómetro del primero, y que hoy se halla deshabitado y con un caserío prácticamente desaparecido. Sin embargo, esta pequeña villa dio nombre, quizás por tener una toponimia de mayor resonancia, a un importante Marquesado desde el siglo XVI, con jurisdicción señorial en este núcleo y en el de Chucena.
+En 1833, Chucena pasa a depender de la provincia de Huelva y del partido judicial de La Palma del Condado, en detrimento de la de Sevilla, con la cual había tenido intensas relaciones económicas e históricas.
+Desde sus inicios hasta la actualidad, Chucena ha sido un núcleo eminentemente agrícola y algo ganadero. Pascual Madoz, para mediados del siglo XIX, nos dirá : “la producción de granos es muy escasa; la de aceituna es la más abundante; hay algunas viñas, ganado vacuno y muy poco de lanar....”
+Ligada a la historia de Chucena, hay que recordar la existencia hasta 1988, cuando hubo de ser talado, de un gran pino de varios siglos de antigüedad, que fue declarado en 1954 Monumento de Interés Local y conocido como el Pino del padre Jacinto. Fue tal su importancia, que figura actualmente en el escudo heráldico del pueblo. De su madera se construyó una gran cruz.
+No puedes perder la oportunidad de visitar nuestro pueblo. Chucena destaca por su acogedora gente y por unas fiestas y costumbres muy personales y especiales, que sin duda os harán disfrutar enormemente. En esta aplicación podréis hacer una visita virtual y conocer mejor todo lo que rodea a este pueblo.
+
+
 
 Etiquetas	
 ===========
